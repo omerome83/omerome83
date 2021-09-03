@@ -11,4 +11,4 @@
 - 🎥 Enjoying media in my man cave. 
 - 🐟 Taking care of my aquarium
 
-💬 If you have any questions about anything that caught your attention, please feel free to ask me. 
+💬 If you have any questions about anything that caught your attention, please feel free to ask me @ romel.williams@gmail.com. 
