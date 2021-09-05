@@ -1,4 +1,4 @@
-# Hello! 👋 My name is Romel Williams. 
+# Hello! My name is Romel Williams. 
 
 - I work full-time in the 💻 IT field specializing in software testing.
 - I am currently learning HTML, CSS, JavaScript, and Node.js.
