@@ -8,5 +8,5 @@
 - 🏠 Smart Home/Home Automation
 - 🏈 Playing sports
 - 🛌 Taking naps
-- 🎥 Enjoying media in my man cave. 
+- 🎥 Enjoying media in my media room. 
 - 🐟 Taking care of my aquarium
