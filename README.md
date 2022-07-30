@@ -8,5 +8,5 @@
 - 🏠 Smart Home/Home Automation
 - 🏈 Playing sports
 - 🛌 Taking naps
-- 🎥 Enjoying media in my media room. 
+- 🎥 Enjoying music, movies, or video games in my media room. 
 - 🐟 Taking care of my aquarium
