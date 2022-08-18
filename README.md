@@ -1,4 +1,4 @@
-# Interests
+# My Interests
 
 - 🌱 Growing tropical plants 
 - 🍳 Cooking
