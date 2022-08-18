@@ -1,6 +1,3 @@
-- I work in the 💻 IT field specializing in software testing.
-- I am currently learning HTML, CSS, JavaScript, React, and Node.js.
-
 # Interests
 
 - 🌱 Growing tropical plants 
