@@ -1,3 +1,5 @@
+When I am not coding or trying to advance my knowledge base with frameworks and libraries, here are a few things I enjoy doing in my spare time.
+
 # My Interests
 
 - 🌱 Growing tropical plants 
