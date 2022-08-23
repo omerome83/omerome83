@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I am Romel and welcome to my page! 😃 Currently I specialize in 💻 sofware testing, but web development has always been a passion of mine. Right now, I am learning JavaScript, React, and Node.js.
+Hi, I am Romel! 😃 Currently I specialize in 💻 sofware testing, but web development has always been a passion of mine. Right now, I am learning JavaScript, React, and Node.js.
 
 Outside of coding or trying to advance my knowledge base with frameworks and libraries, here are a few things I enjoy doing in my spare time:
 
