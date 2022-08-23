@@ -12,4 +12,4 @@ Outside of coding or trying to advance my knowledge base with frameworks and lib
   - 🎥 Enjoying music, movies, or video games in my media room
   - 🍳 Cooking
 
-You can also find me on [twitter](https://www.twitter.com/omerome) as well as [linkedin](https://www.linkedin.com/in/romelwilliams/) posting about my web development journey and other topics I am passionate about.
+You can also find me on [twitter](https://www.twitter.com/omerome) and [linkedin](https://www.linkedin.com/in/romelwilliams/) posting about my web development journey as well as topics I am passionate about.
