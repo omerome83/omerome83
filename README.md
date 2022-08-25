@@ -13,3 +13,9 @@ Outside of coding or trying to advance my knowledge base with frameworks and lib
   - 🍳 Cooking
 
 You can also find me on [twitter](https://www.twitter.com/omerome) and [linkedin](https://www.linkedin.com/in/romelwilliams/) posting about my web development journey as well as topics I am passionate about.
+
+### Stats and Additional Info 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=omerome83&theme=nord&show_icons=true&count_private=true)  
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=omerome83&theme=blue-green)
