@@ -6,11 +6,5 @@ When I'm not coding or exploring new frameworks and libraries, I love taking car
 
 Don't forget to check out my [Twitter](https://www.twitter.com/melorome83)  and [LinkedIn](https://www.linkedin.com/in/romelwilliams/) accounts where I share my web development journey and discuss other topics I'm passionate about.
 
-### Stats and Additional Info 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=omerome83&theme=nord&show_icons=true&count_private=true)  
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=omerome83&theme=blue-green)
-
 
 
